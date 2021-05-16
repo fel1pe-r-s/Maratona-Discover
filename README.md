@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="./imagens/2560x1080.png"  />
+    <img src="./imagens do projeto/DevFinances.png"  />
+    <img src="./imagens do projeto/inserindo Dados.png"  />
 </div>
 
 
