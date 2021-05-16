@@ -1,15 +1,13 @@
 <div align="center">
-    <img src="./imagens do projeto/DevFinances.png"  />
-    <img src="./imagens do projeto/inserindo Dados.png"  />
-</div>
-
-
-
-<div align="center">
     <h1> Maratona Discover - dev.finance$</h1>
     <p>Nesse evento da rocketseat foi nos apresentado conceitos basicos de HTML, CSS e Javascript.</p>
 </div>
 
+
+<div align="center">
+    <img src="./imagens do projeto/DevFinances.png"  />
+    <img src="./imagens do projeto/inserindo Dados.png"  />
+</div>
 
 <div align="center">
     <h4>🚀 Em construção...</h4>
