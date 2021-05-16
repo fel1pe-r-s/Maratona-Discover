@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-    <h4>🚀 Em construção...</h4>
+    <h4>🚀 Finalizado...</h4>
 </div>
 
 
