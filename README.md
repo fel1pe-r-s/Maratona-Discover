@@ -1,6 +1,7 @@
 <div align="center">
-    <h1> Maratona Discover - dev.finance$</h1>
-    <p>Nesse evento da rocketseat foi nos apresentado conceitos basicos de HTML, CSS e Javascript.</p>
+    <h1> Maratona Discover</h1>
+    - Nesse evento da rocketseat foi nos apresentado conceitos basicos de HTML, CSS e Javascript
+    
 </div>
 
 
